@@ -1,6 +1,7 @@
 rencana konten wpu
 -JS
 *es 6
+-struktur data
 -PHP
 -Interview
 -vlog
