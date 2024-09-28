@@ -1,7 +1,8 @@
 rencana konten wpu
 -JS
+ *angular
 *es 6
--struktur data
 -PHP
 -Interview
 -vlog
+-python
