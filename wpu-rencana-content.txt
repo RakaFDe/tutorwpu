@@ -5,3 +5,4 @@ rencana konten wpu
 -PHP
 -Interview
 -vlog
+-python
