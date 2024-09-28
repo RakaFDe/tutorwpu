@@ -1,2 +1,2 @@
 # tutorwpu
-repo untuk tutor wpu
+repo untuk tutor wpu git
